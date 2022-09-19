@@ -32,7 +32,7 @@ Following details are needed to extract from the source and I also build a solut
 * Clone the project
 
 ```bash
-  git clone https://github.com/p4nkaj2604/PuspaTest.git
+  git clone https://github.com/Palashnim/PushpaTest.git
 ```
 
 
